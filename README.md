@@ -1,6 +1,6 @@
 # Paper
 
-TALLRec: Tuning LLMs for Recommendation
+TALLRec: Tuning LLMs for Recommendation//
 ・LLMを推薦データでInstruction Tuningし，ユーザが候補アイテムを好むかをYes/Noで判定する枠組みを示した手法
 
 LoRA: Low-Rank Adaptation of Large Language Models
